@@ -1,4 +1,5 @@
 # Three.js Journey
+  Teached and created by Bruno Simon
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
